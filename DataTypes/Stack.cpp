@@ -6,7 +6,7 @@ using namespace std;
 class Stack
 {
 private:
-    short arr[30];
+    int arr[30];
     int top;
 
 public:
